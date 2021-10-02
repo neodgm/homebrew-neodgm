@@ -6,7 +6,7 @@ cask "font-neodunggeunmo" do
   url "https://github.com/neodgm/neodgm/releases/download/v#{version}/neodgm.ttf",
       verified: "github.com/neodgm/neodgm/"
   name "NeoDunggeunmo"
-  desc "Modern TrueType font based on an old-but-good Korean bitmap font"
+  desc "TrueType font based on an old-but-good Korean bitmap font"
   homepage "https://neodgm.dalgona.dev/"
 
   font "neodgm.ttf"

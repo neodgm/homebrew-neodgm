@@ -6,7 +6,7 @@ cask "font-neodunggeunmo-pro" do
   url "https://github.com/neodgm/neodgm-pro/releases/download/v#{version}/neodgm_pro.ttf",
       verified: "github.com/neodgm/neodgm-pro/"
   name "NeoDunggeunmo Pro"
-  desc "A proportional font based on NeoDunggeunmo"
+  desc "Proportional font based on NeoDunggeunmo"
   homepage "https://neodgm.dalgona.dev/neodgm_pro.html"
 
   font "neodgm_pro.ttf"
