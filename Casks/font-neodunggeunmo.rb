@@ -1,6 +1,6 @@
 cask "font-neodunggeunmo" do
   version "1.530"
-  sha256 "562c7812312cd2c878de8e7aed9fb8c25c5291480aab1a6b35627215fb101595"
+  sha256 "d61b60eccb731f8ca9c7da582e4a05a94db66b570471809950aa9a7261b941d6"
 
   # github.com/neodgm/neodgm/ was verified as official when first introduced to the cask
   url "https://github.com/neodgm/neodgm/releases/download/v#{version}/neodgm.ttf",
